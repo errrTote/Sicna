@@ -1,0 +1,65 @@
+
+
+.banner{
+	width: 100%;
+	height: auto;
+}
+
+footer{
+	height: 3em;	
+	text-align: center;	
+	background-color: #00ABDA;
+	color: #fff;
+}
+
+.invalid{
+  color:#FF0000;
+}
+
+.valid{
+  color:#13A500;
+}
+
+.btn-right{
+	margin-top: 1em;
+}
+
+.sidebar{
+	margin-top: 3em;
+}
+
+.nota{
+	color: #FF0000;
+}
+
+.panel-ingreso{
+  width: 25%;
+  margin-left: 37.5%;
+  margin-top: 5em;
+  margin-bottom: 3em;
+}
+
+.panel-ingreso h4{
+  color: white;
+  
+}
+
+.panel-ingreso{
+  text-align: center;
+}
+
+.logo{
+  height: 30em;
+  width: 75%;  
+  margin-left: 12.5%;
+  margin-bottom: 3em;
+ 
+}
+
+.maqueta{
+	display: table-row;
+}
+
+.Hfooter{
+	margin-top: 1em;
+}
